@@ -65,7 +65,7 @@ Developed a console-based student database system to demonstrate strong fundamen
 - Optimized memory usage and data handling  
 
 **Technologies:** C, Data Structures, Linked Lists  
-Repository: https://github.com/Sajidk2002/student-record-management  
+Repository: https://github.com/Sajidk2002/Student-Data-Project
 
 ---
 
