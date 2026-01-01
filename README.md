@@ -41,8 +41,7 @@ Designed and implemented a CAN-based automotive reverse parking assistance syste
 - Focused on reliability and real-time performance for automotive use cases  
 
 **Technologies:** Embedded C, ARM Cortex-M, CAN, FreeRTOS, Interrupts  
-Repository: https://github.com/Sajidk2002/reverse-parking-system  
-
+Repository: https://github.com/Sajidk2002/Reverse_Car_Parking_System_CAN
 ---
 
 ### Automated Waste Collection Robot (Robotics and Computer Vision)
@@ -53,7 +52,6 @@ Developed an automated robotic system that integrates computer vision with embed
 - Achieved real-time obstacle avoidance and autonomous movement  
 
 **Technologies:** ARM Cortex-M, Embedded C++, Python, OpenCV, UART, PWM  
-Repository: https://github.com/Sajidk2002/Reverse_Car_Parking_System_CAN
 
 ---
 
