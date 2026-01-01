@@ -53,7 +53,7 @@ Developed an automated robotic system that integrates computer vision with embed
 - Achieved real-time obstacle avoidance and autonomous movement  
 
 **Technologies:** ARM Cortex-M, Embedded C++, Python, OpenCV, UART, PWM  
-Repository: https://github.com/Sajidk2002/automated-waste-collection-robot  
+Repository: https://github.com/Sajidk2002/Reverse_Car_Parking_System_CAN
 
 ---
 
